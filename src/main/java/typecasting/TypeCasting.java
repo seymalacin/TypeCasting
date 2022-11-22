@@ -34,6 +34,6 @@ public class TypeCasting {
         byte newNum = (byte) num;
         System.out.println(newNum);// -2
 
-        System.out.println();
+
     }
 }
